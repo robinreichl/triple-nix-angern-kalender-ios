@@ -29,6 +29,7 @@ UID:android-triple-nix-20260902-01@spielplan.local
 DTSTAMP:20260818T120000Z
 DTSTART;TZID=Europe/Vienna:20260902T193000
 SUMMARY:Angern Mambas - Triple Nix Angern
+LOCATION:Gasthaus Zum Waldfrieden\, Angern 9\, 5204 Straßwalchen
 DESCRIPTION:1. Spielrunde - Auswärtsspiel
 BEGIN:VALARM
 TRIGGER:-PT5H30M
@@ -41,6 +42,7 @@ UID:android-triple-nix-20260909-02@spielplan.local
 DTSTAMP:20260818T120000Z
 DTSTART;TZID=Europe/Vienna:20260909T193000
 SUMMARY:Triple Nix Angern - Att. Bowhunters II
+LOCATION:Gasthaus Zum Waldfrieden\, Angern 9\, 5204 Straßwalchen
 DESCRIPTION:2. Spielrunde - Heimspiel
 BEGIN:VALARM
 TRIGGER:-PT5H30M
@@ -53,6 +55,7 @@ UID:android-triple-nix-20260915-03@spielplan.local
 DTSTAMP:20260818T120000Z
 DTSTART;TZID=Europe/Vienna:20260915T193000
 SUMMARY:DC Apollo - Triple Nix Angern
+LOCATION:Dartverein DC Apollo\, Grazerstraße 22\, 4820 Bad Ischl
 DESCRIPTION:3. Spielrunde - Auswärtsspiel
 BEGIN:VALARM
 TRIGGER:-PT5H30M
@@ -65,6 +68,7 @@ UID:android-triple-nix-20260923-04@spielplan.local
 DTSTAMP:20260818T120000Z
 DTSTART;TZID=Europe/Vienna:20260923T193000
 SUMMARY:Triple Nix Angern - DC Roider I
+LOCATION:Gasthaus Zum Waldfrieden\, Angern 9\, 5204 Straßwalchen
 DESCRIPTION:4. Spielrunde - Heimspiel
 BEGIN:VALARM
 TRIGGER:-PT5H30M
@@ -77,6 +81,7 @@ UID:android-triple-nix-20260930-05@spielplan.local
 DTSTAMP:20260818T120000Z
 DTSTART;TZID=Europe/Vienna:20260930T193000
 SUMMARY:Triple Nix Angern - The Dukes
+LOCATION:Gasthaus Zum Waldfrieden\, Angern 9\, 5204 Straßwalchen
 DESCRIPTION:5. Spielrunde - Heimspiel
 BEGIN:VALARM
 TRIGGER:-PT5H30M
@@ -89,6 +94,7 @@ UID:android-triple-nix-20261005-06@spielplan.local
 DTSTAMP:20260818T120000Z
 DTSTART;TZID=Europe/Vienna:20261005T193000
 SUMMARY:Avengers - Triple Nix Angern
+LOCATION:Walchner Keller\, Salzburger Straße 15\, 4870 Vöcklamarkt
 DESCRIPTION:6. Spielrunde - Auswärtsspiel
 BEGIN:VALARM
 TRIGGER:-PT5H30M
@@ -101,6 +107,7 @@ UID:android-triple-nix-20261014-07@spielplan.local
 DTSTAMP:20260818T120000Z
 DTSTART;TZID=Europe/Vienna:20261014T193000
 SUMMARY:Triple Nix Angern - Att. Bowhunters I
+LOCATION:Gasthaus Zum Waldfrieden\, Angern 9\, 5204 Straßwalchen
 DESCRIPTION:7. Spielrunde - Heimspiel
 BEGIN:VALARM
 TRIGGER:-PT5H30M
@@ -113,6 +120,7 @@ UID:android-triple-nix-20261021-08@spielplan.local
 DTSTAMP:20260818T120000Z
 DTSTART;TZID=Europe/Vienna:20261021T193000
 SUMMARY:Triple Nix Angern - Angern Mambas
+LOCATION:Gasthaus Zum Waldfrieden\, Angern 9\, 5204 Straßwalchen
 DESCRIPTION:8. Spielrunde - Heimspiel
 BEGIN:VALARM
 TRIGGER:-PT5H30M
@@ -125,6 +133,7 @@ UID:android-triple-nix-20261029-09@spielplan.local
 DTSTAMP:20260818T120000Z
 DTSTART;TZID=Europe/Vienna:20261029T193000
 SUMMARY:Att. Bowhunters II - Triple Nix Angern
+LOCATION:Vereinslokal Bowhunters\, Oberleiten 10\, 4881 Strass im Attergau
 DESCRIPTION:9. Spielrunde - Auswärtsspiel
 BEGIN:VALARM
 TRIGGER:-PT5H30M
@@ -137,6 +146,7 @@ UID:android-triple-nix-20261104-10@spielplan.local
 DTSTAMP:20260818T120000Z
 DTSTART;TZID=Europe/Vienna:20261104T193000
 SUMMARY:Triple Nix Angern - DC Apollo
+LOCATION:Gasthaus Zum Waldfrieden\, Angern 9\, 5204 Straßwalchen
 DESCRIPTION:10. Spielrunde - Heimspiel
 BEGIN:VALARM
 TRIGGER:-PT5H30M
@@ -149,6 +159,7 @@ UID:android-triple-nix-20261110-11@spielplan.local
 DTSTAMP:20260818T120000Z
 DTSTART;TZID=Europe/Vienna:20261110T193000
 SUMMARY:DC Roider I - Triple Nix Angern
+LOCATION:Gasthaus Zum Fidelen Bauern\, Grossenschwandt 31\, 4882 Oberwang
 DESCRIPTION:11. Spielrunde - Auswärtsspiel
 BEGIN:VALARM
 TRIGGER:-PT5H30M
@@ -161,6 +172,7 @@ UID:android-triple-nix-20261118-12@spielplan.local
 DTSTAMP:20260818T120000Z
 DTSTART;TZID=Europe/Vienna:20261118T200000
 SUMMARY:The Dukes - Triple Nix Angern
+LOCATION:Duke's Bar\, Herzog-Odilo-Straße 6\, 5310 Mondsee
 DESCRIPTION:12. Spielrunde - Auswärtsspiel
 BEGIN:VALARM
 TRIGGER:-PT6H
@@ -173,6 +185,7 @@ UID:android-triple-nix-20261125-13@spielplan.local
 DTSTAMP:20260818T120000Z
 DTSTART;TZID=Europe/Vienna:20261125T193000
 SUMMARY:Triple Nix Angern - Avengers
+LOCATION:Gasthaus Zum Waldfrieden\, Angern 9\, 5204 Straßwalchen
 DESCRIPTION:13. Spielrunde - Heimspiel
 BEGIN:VALARM
 TRIGGER:-PT5H30M
@@ -185,6 +198,7 @@ UID:android-triple-nix-20261203-14@spielplan.local
 DTSTAMP:20260818T120000Z
 DTSTART;TZID=Europe/Vienna:20261203T193000
 SUMMARY:Att. Bowhunters I - Triple Nix Angern
+LOCATION:Vereinslokal Bowhunters\, Oberleiten 10\, 4881 Strass im Attergau
 DESCRIPTION:14. Spielrunde - Auswärtsspiel
 BEGIN:VALARM
 TRIGGER:-PT5H30M
